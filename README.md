@@ -5,7 +5,7 @@ In this repository we mainly provide example scripts and functions to calculate 
 
 1) Chirped FBGs (pitch of the grating varying linearly)
 2) Chirped FBGs with a Gaussian apodization
-3) ...
+3) Phase-shifted FBGs
 
 The reflectivity for these FBGs is solved in all cases using some type of boundary value problem solver, and we include example scripts in Mathematica, Python, and Matlab for each case. Mathematica files are ".nb", python jupyter notebooks are ".ipynb", and Matlab scripts are ".m". More detail of the equations, variables, and scalings along with important references can be found in the longer, more detailed document "FBGreflectivity.pdf" in this repository.
 
